@@ -1,7 +1,7 @@
 # Wallace Júnior
 
 <div align="center">
-  <img src="https://c.tenor.com/Egt2H3v94ZYAAAAC/dog-pool.gif" alt="Cachorro boiando em uma piscina com uma boia de flamingo" width="339" />
+  <img src=".github/dog-pool.gif" alt="Cachorro boiando em uma piscina com uma boia de flamingo" width="339" />
 </div>
 
 ## Salve, Devs 😎
@@ -21,7 +21,7 @@ Gosto de resolver problemas e sempre tento resolvê-los da forma mais eficiente 
 
 ### Linguagens
 
-<div style="display: flex; gap: 0.5rem;">
+<div style="display: flex; gap: 0.5rem; align-items: center; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
@@ -32,7 +32,7 @@ Gosto de resolver problemas e sempre tento resolvê-los da forma mais eficiente 
 <div>
   <h6>Front end</h6>
 
-  <div style="display: inline-block;">
+  <div style="display: flex; gap: 0.5rem; align-items: center; flex-wrap: wrap;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="NextJS" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS" />
@@ -45,7 +45,7 @@ Gosto de resolver problemas e sempre tento resolvê-los da forma mais eficiente 
 
   <h6>Back end</h6>
 
-  <div style="display: inline-block;">
+  <div style="display: flex; gap: 0.5rem; align-items: center; flex-wrap: wrap;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="NodeJS" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="ExpressJS" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" height="40" alt="NestJS" />
@@ -55,7 +55,7 @@ Gosto de resolver problemas e sempre tento resolvê-los da forma mais eficiente 
 
   <h6>Bancos de Dados</h6>
 
-  <div style="display: inline-block;">
+  <div style="display: flex; gap: 0.5rem; align-items: center; flex-wrap: wrap;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" />
@@ -64,7 +64,7 @@ Gosto de resolver problemas e sempre tento resolvê-los da forma mais eficiente 
 
   <h6>Ferramentas</h6>
 
-  <div style="display: inline-block;">
+  <div style="display: flex; gap: 0.5rem; align-items: center; flex-wrap: wrap;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="40" height="40" alt="yarn" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" alt="npm" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="Visual Studio Code" />
@@ -79,7 +79,7 @@ Gosto de resolver problemas e sempre tento resolvê-los da forma mais eficiente 
 
 ### Interesses
 
-<div style="display: inline-block;">
+<div style="display: flex; gap: 0.5rem; align-items: center; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="40" height="40" alt="Electron" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="GO" />
