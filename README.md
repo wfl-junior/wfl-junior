@@ -6,9 +6,9 @@
 
 ## Salve, Devs 😎
 
-Eu tenho 25 anos, moro em Cabo Frio/RJ e sou desenvolvedor Full Stack, mas foco mais no frontend e sou apaixonado por React.
+Eu tenho 25 anos, moro em Cabo Frio/RJ e sou desenvolvedor Full Stack, mas foco mais no frontend e sou apaixonado por TypeScript e React.
 
-Gosto de resolver problemas e sempre tento resolvê-los da forma mais eficiente que eu consigo.
+Gosto de resolver problemas e da forma mais eficiente que eu consigo.
 
 <div>
   <a href="https://www.linkedin.com/in/wfl-junior" target="_blank">
