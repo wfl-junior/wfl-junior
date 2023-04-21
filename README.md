@@ -6,7 +6,7 @@
 
 ## Salve, Devs 😎
 
-Eu tenho 25 anos, moro em Cabo Frio/RJ e sou desenvolvedor Full Stack, mas foco mais no frontend e sou apaixonado por TypeScript e React.
+Eu tenho 26 anos, moro em Cabo Frio/RJ e sou desenvolvedor Full Stack, mas foco mais no frontend e sou apaixonado por TypeScript e React.
 
 Gosto de resolver problemas e da forma mais eficiente que eu consigo.
 
